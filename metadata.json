@@ -1,0 +1,6 @@
+{
+  "name": "Locker Dash: Hallway Escape",
+  "description": "Mobile-first arcade escape game where a student sprints through school wings packed with sentient lockers and hallway traps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
